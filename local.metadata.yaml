@@ -1,7 +1,7 @@
 collection_name: docs
 data_source:
     type: localdir
-    uri: ./sample-data/creditcards
+    uri: /home/u1009/Venu/Nexa/Python/RAG/cognita/sample-data/creditcards/
 parser_config:
     chunk_size: 512
     chunk_overlap: 40
